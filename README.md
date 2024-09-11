@@ -1,5 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://anshul-2806.io)
-
+!([MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://anshul-2806.io)
+!([MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Anshul Gupta</h1>
 <h3 align="center">A passionate Web / App Developer from India</h3>
