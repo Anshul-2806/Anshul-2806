@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **iOS, Data Analysis, AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-1-bay.vercel.app/](https://personal-portfolio-1-bay.vercel.app/)
+- 👨‍💻 All of my projects are available at ([https://personal-portfolio-1-bay.vercel.app/](https://personal-portfolio-1-bay.vercel.app/#portfolio))
 
 - 💬 Ask me about **iOS, Frontend Web Development**
 
