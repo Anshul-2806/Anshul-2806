@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshul-2806&label=Profile%20views&color=0e75b6&style=flat" alt="anshul-2806" /> </p>
 
-- 🌱 I’m currently learning **iOS, AI/ML**
+- 🌱 I’m currently learning **iOS, Data Analysis, AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-1-bay.vercel.app/](https://personal-portfolio-1-bay.vercel.app/)
 
