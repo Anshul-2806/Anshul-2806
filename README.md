@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **iOS, Frontend Web Development, Digital Marketing**
 
-- 📫 How to reach me **guptaanshul2806@gmail.com**
+- 📫 How to reach me **guptaanshul2806@gmail.com || https://www.linkedin.com/in/anshul-gupta-b95807193/**
 
 - 📄 Know about my experiences [https://personal-portfolio-1-bay.vercel.app/#about](https://personal-portfolio-1-bay.vercel.app/#about)
 
